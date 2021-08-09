@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(236, 164, 236);
+}
+.photo-item{
+    width: 450px;
+list-style: none;
+margin-left: 230px;
+margin-top: 150px;
+
+}
+.photo{
+height: 450px;
+ 
+
+}
+.spisok{
+    flex-wrap: wrap;
+  
+   display: flex;
+}
+body:hover{
+     background-color: deepskyblue;
+}
